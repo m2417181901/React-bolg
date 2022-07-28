@@ -1,0 +1,11 @@
+import App from 'next/app'
+import '../styles/pages/comm.css'
+import 'antd/dist/antd.css'
+import '../styles/style/components/header.css'
+import '../styles/pages/index.css'
+import '../styles/style/components/author.css'
+import '../styles/style/components/advert.css'
+import '../styles/style/components/footer.css'
+import '../styles/style/components/detailed.css'
+import 'markdown-navbar/dist/navbar.css'
+export default App
