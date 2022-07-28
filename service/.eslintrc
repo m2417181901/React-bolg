@@ -1,0 +1,8 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "prefer-const": "off"
+  }
+  
+}
+// # 代码格式化配置文件

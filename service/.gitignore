@@ -1,0 +1,15 @@
+logs/
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+typings/
+.nyc_output/
+# 上传文件时候的参考文件 用来配置那些文件上传 那些文件不上传
